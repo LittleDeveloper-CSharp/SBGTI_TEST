@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FirstCheckpoint", "FirstCheckpoint\FirstCheckpoint.vbproj", "{706B58CA-FAB2-429F-998E-FD8149B5BA34}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SecondCheckpoint", "SecondCheckpoint\SecondCheckpoint.vbproj", "{6FF44260-71DC-4B4C-891A-3A1BD6EF2CC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{706B58CA-FAB2-429F-998E-FD8149B5BA34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{706B58CA-FAB2-429F-998E-FD8149B5BA34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{706B58CA-FAB2-429F-998E-FD8149B5BA34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{706B58CA-FAB2-429F-998E-FD8149B5BA34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FF44260-71DC-4B4C-891A-3A1BD6EF2CC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FF44260-71DC-4B4C-891A-3A1BD6EF2CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FF44260-71DC-4B4C-891A-3A1BD6EF2CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FF44260-71DC-4B4C-891A-3A1BD6EF2CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69EFDB97-6C0F-4E89-821B-4AE6F9ECD8DC}
+	EndGlobalSection
+EndGlobal
