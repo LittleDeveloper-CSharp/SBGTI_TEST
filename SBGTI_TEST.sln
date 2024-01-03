@@ -7,6 +7,8 @@ Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FirstCheckpoint", "FirstChe
 EndProject
 Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SecondCheckpoint", "SecondCheckpoint\SecondCheckpoint.vbproj", "{6FF44260-71DC-4B4C-891A-3A1BD6EF2CC7}"
 EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ThirdCheckpoint", "ThirdCheckpoint\ThirdCheckpoint.vbproj", "{CEB984BC-6397-4E1A-8625-A6ACB77271C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6FF44260-71DC-4B4C-891A-3A1BD6EF2CC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6FF44260-71DC-4B4C-891A-3A1BD6EF2CC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6FF44260-71DC-4B4C-891A-3A1BD6EF2CC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEB984BC-6397-4E1A-8625-A6ACB77271C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEB984BC-6397-4E1A-8625-A6ACB77271C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEB984BC-6397-4E1A-8625-A6ACB77271C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEB984BC-6397-4E1A-8625-A6ACB77271C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
