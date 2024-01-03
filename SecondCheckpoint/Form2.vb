@@ -19,7 +19,7 @@
                 y = Math.Exp(-x)
             ElseIf 0 <= x And x <= 1 Then
                 y = Math.Cos(x * (Math.PI / 2))
-            ElseIf x >= 1 Then
+            Else
                 y = 0
             End If
 

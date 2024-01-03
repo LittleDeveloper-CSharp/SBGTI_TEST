@@ -19,7 +19,7 @@
                 y = 0
             ElseIf -Math.PI / 2 <= x And x <= 0 Then
                 y = Math.Cos(x)
-            ElseIf x > 0 Then
+            Else
                 y = 1
             End If
 
