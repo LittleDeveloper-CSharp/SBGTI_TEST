@@ -39,7 +39,7 @@
 
     Private Sub StartProcessButton_Click(sender As Object, e As EventArgs) Handles StartProcessButton.Click
         Dim arrayDimension As Integer
-        arrayDimension = CInt(TextBoxDimensionParameter.Text)
+        arrayDimension = CInt(TextBoxDimensionParameter.Text) - 1
 
         Dim sourceArray As Integer(,) = GetSourceArray(arrayDimension)
         MsgBox("Исходная матрица")
