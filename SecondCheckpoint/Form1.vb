@@ -16,7 +16,7 @@
             If x <= -1 Then
                 y = 0
             ElseIf -1 < x And x < 0 Then
-                y = 1 + Math.PI
+                y = 1 + x
             ElseIf x >= 1 Then
                 y = Math.Cos(Math.PI * (x / 2))
             End If
